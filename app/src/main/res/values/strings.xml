@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Traveller</string>
+    <string name="title_activity_map">Map</string>
+    <string name="REQUEST_PERMISSIONS">This app wont work without these permissions, please reconsider</string>
+    <string name="RETRY">RETRY</string>
+    <string name="GPS_ON">The GPS needs to be online for this app to work</string>
+    <string name="TURN_ON">Turn On</string>
+    <string name="YOU">You</string>
+    <string name="BLUE_ARGB">#FF0000FF</string>
+    <string name="record_position">Record Position</string>
+    <string name="JOURNEY_TAB">Journey History</string>
+    <string name="MAP_TAB">Map</string>
+    <string name="gps_loading">Looking for your position</string>
+    <string name="STOP_TRACKING">Tracking Finished, saving information.</string>
+    <string name="START_TRACKING">Starting to track your journey.</string>
+    <string name="LOC_SAVED">Locations Saved: %d</string>
+    <string name="DATE_FORMAT_H_M_S">hh \'hours,\' mm \'minutes and\' ss \'seconds\'</string>
+    <string name="DATE_FORMAT_S">ss \'seconds\'</string>
+    <string name="DATE_FORMAT_M_S">mm \'minutes and\' ss \'seconds\'</string>
+</resources>
